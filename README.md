@@ -375,7 +375,7 @@ python script.py -v --format json data.json
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
 ### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+https://github.com/chandanadasm/campusloop/blob/c7665cc707f21d57e7f93f5e2e5c9745c7085443/coverpage.jpeg
 
 ---
 

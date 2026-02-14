@@ -370,9 +370,10 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
+
+https://github.com/chandanadasm/campusloop/blob/802d2764028d7a888397c73729e9d089a0eb01fa/campusloop%20demo.mp4
 
 ### Additional Demos
 https://github.com/chandanadasm/campusloop/blob/c7665cc707f21d57e7f93f5e2e5c9745c7085443/coverpage.jpeg

@@ -2,27 +2,32 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+ Campusloop 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Infix]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [CHANDANADAS M] - [NSS College of engineering]
+- Member 2: [ABINA B ANI] - [College]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Campus Loop is a creative, interactive student community platform designed to enhance campus life by connecting students, sharing resources, and building local networks within and around educational institutions.
+The platform acts as a centralized digital ecosystem where students can access academic support, connect with seniors, review hostels, and find people nearby in their locality for collaboration or ride sharing.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Students in educational institutions often lack a centralized digital platform that integrates academic resources, peer mentorship, hostel information, and locality-based networking. Important updates and study materials are usually shared through scattered and informal channels, making access inconsistent and inefficient.
+New students face difficulties in connecting with seniors for guidance, finding reliable hostel reviews, and identifying peers living in the same area for collaboration or ride sharing. The absence of a structured, unified system results in limited student engagement, reduced transparency, and missed opportunities for academic and social collaboration.
+Therefore, there is a need for an interactive and integrated campus platform that streamlines communication, enhances peer connectivity, and fosters a stronger student community ecosystem.]
 
 ### The Solution
-[How are you solving it?]
+[Campus Loop solves these challenges by providing a centralized, student-driven digital platform that integrates academic support, mentorship access, hostel transparency, and locality-based networking into one structured ecosystem.
+The platform offers an Academic Resource Hub for organized study materials, a Senior Connect module for structured peer mentorship, a Hostel Reviews section for transparent accommodation insights, and a Find People Nearby feature to enable area-based student circles and collaboration.
+By bringing these services together in a single interactive dashboard, Campus Loop reduces information gaps, improves peer engagement, and strengthens campus connectivity in a simple and accessible way.]
 
 ---
 
@@ -31,7 +36,7 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
+- Languages used: [HTML5]
 - Frameworks used: [e.g., React, Django, Spring Boot]
 - Libraries used: [e.g., axios, pandas, JUnit]
 - Tools used: [e.g., VS Code, Git, Docker]

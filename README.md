@@ -10,7 +10,7 @@
 
 ### Team Members
 - Member 1: [CHANDANADAS M] - [NSS College of engineering]
-- Member 2: [ABINA B ANI] - [College]
+- Member 2: [ABINA B ANI] - [NSS College of engineering]
 
 ### Hosted Project Link
 [mention your project hosted link here]
@@ -36,10 +36,10 @@ By bringing these services together in a single interactive dashboard, Campus Lo
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [HTML5]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [HTML5,CSS3,JavaScript(ES6)]
+- Frameworks used: [Node.js,Express.js]
+- Libraries used: [Bootstrap,MongoDB]
+- Tools used: [VS Code, Git and GitHub ]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -51,11 +51,14 @@ By bringing these services together in a single interactive dashboard, Campus Lo
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
-
+- 1. Centralized Student Dashboard
+An interactive and user-friendly dashboard that integrates all core campus services into a single platform for easy access and navigation.
+2. Academic Resource Hub
+A structured space where students can access study materials, academic updates, and shared learning resources in an organized manner.
+3. Senior Connect (Peer Mentorship System)
+A dedicated module that enables students to connect with seniors for academic guidance, career advice, and mentorship support.
+4. Locality & Accommodation Support
+Includes transparent hostel reviews and a “Find People Nearby” feature that allows students to form area-based circles for networking and ride-sharing opportunities.
 ---
 
 ## Implementation
@@ -64,8 +67,9 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+git clone https://github.com/your-username/campus-loop.git
+cd campus-loop
+npm install
 
 #### Run
 ```bash

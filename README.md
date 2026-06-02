@@ -12,8 +12,6 @@
 - Member 1: CHANDANADAS M - NSS College of engineering
 - Member 2: ABINA B ANI - NSS College of engineering
 
-### Hosted Project Link
-[mention your project hosted link here]
 
 ### Project Description
 Campus Loop is a creative, interactive student community platform designed to enhance campus life by connecting students, sharing resources, and building local networks within and around educational institutions.
